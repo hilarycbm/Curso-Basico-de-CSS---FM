@@ -1,0 +1,33 @@
+p{
+	margin: 10px;
+}
+
+h1,h2,h3{
+	color: #A52A2A;
+}
+/*CLASS*/
+.titulos{
+	color: #556B2F;
+}
+p .span{
+	color: #008B8B;
+}
+div{
+	/*margin se usa para el espacio externo del objeto
+  	padding se usa para el espacio interno del objeto*/
+  	background: yellow;
+	margin: 30px;
+	padding: 10px;
+}
+/*PARA DAR UN ESTILO A TODO*/
+*{
+	font-family: Verdana;
+}
+/*ACCEDER A VARIABLES ESPECIFICAS*/
+p a{
+	color: #DC143C;
+}
+/*ACCEDER A LINK ESPECIFICO*/
+a[href="https://lenguajecss.com"]{
+	color: #6495ED;
+}
