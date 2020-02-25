@@ -1,0 +1,14 @@
+body{
+	background: url(fondo.jpg);
+	background-attachment: fixed;
+	background-size: 100%;
+	color: white;
+}
+div{
+	background: url(fondo1.jpg);
+	width: 500px;
+	height: 500px;
+	background-position: 50px 60px;
+	background-color: black;
+	background-repeat: no-repeat;
+}
