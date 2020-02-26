@@ -1,0 +1,12 @@
+img{
+	width: 500px;
+	height: auto;
+	margin: 30px;
+	padding: 10px;
+	border: 2px solid;
+	border-color: #FCB6AC;
+}
+div{
+	background-color: #D8ADBC;
+	text-align: center;
+}
