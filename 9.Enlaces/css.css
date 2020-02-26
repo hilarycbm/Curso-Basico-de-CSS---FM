@@ -1,0 +1,18 @@
+a{
+	background: #1D3A4F;
+	padding: 10px;
+	margin: 10px;
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	box-shadow: 1px 5px #1D5B89;
+	font-size: 18px;
+
+}
+a:active{
+	background:#9AB2C4;
+	color: black;
+	box-shadow: 5px 5px #1D5B89;
+}
